@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**snabady/snabady**  ✨ _special_ ✨ 
+**snabady/snafu**  ✨ _special_ ✨ 
 
 here some info's to make u satisfied:
 
