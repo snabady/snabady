@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 🤟
 
 
-**snabady/snafu**  ✨ _special_ ✨ 
+**snabady/snafu/5n4fu**  ✨ _special_ ✨ 
 
 here some info's to make u satisfied:
 
