@@ -2,5 +2,19 @@
 
 
 **snabady/snafu/5n4fu**  ✨ _special_ ✨ 
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mysql,visualstudio,eclipse,java,js,nodejs,react,jest,cpp,cs,dotnet,html,css,tailwind)](https://skillicons.dev)
 
+Code:
+
+[![My Skills](https://skillicons.dev/icons?i=py,regex,bash,java,cpp)](https://skillicons.dev)
+
+Web:
+
+[![My Web](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,tailwind)](https://skillicons.dev)
+
+Tools:
+
+[![My Tools](https://skillicons.dev/icons?i=github,git,bash,vim,visualstudio,eclipse)](https://skillicons.dev)
+
+DB:
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
