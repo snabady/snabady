@@ -13,7 +13,7 @@ Web:
 
 Tools:
 
-[![My Tools](https://skillicons.dev/icons?i=github,git,bash,vim,visualstudio,eclipse)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=linux,github,git,bash,vim,visualstudio,eclipse)](https://skillicons.dev)
 
 DB:
 
