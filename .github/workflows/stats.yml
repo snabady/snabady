@@ -2,11 +2,11 @@ name: GitHub Readme Stats Action
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Läuft jede Nacht um 0:00 Uhr
-  workflow_dispatch: # Ermöglicht manuelles Starten
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write # WICHTIG: Erlaubt der Action, die Bilder in dein Repo zu speichern
+  contents: write
 
 jobs:
   stats:
@@ -32,9 +32,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push Changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git diff-index --quiet HEAD || git commit -m "Update GitHub Stats"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub Stats"
+          file_pattern: 'profile/*.svg'
